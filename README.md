@@ -20,7 +20,7 @@ This project automates the process of submitting web forms for multiple users us
 
 **Directory Structure:**
 ```
-root/
+form_automation_bot/
 │
 ├── main.py
 ├── requirements.txt
@@ -75,8 +75,8 @@ flowchart TD
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/doerz_automation.git
-cd doerz_automation
+git clone https://github.com/yourusername/form_automation_bot.git
+cd form_automation_bot
 ```
 
 ### 2. **Set Up Python Environment**
