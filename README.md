@@ -20,7 +20,7 @@ This project automates the process of submitting web forms for multiple users us
 
 **Directory Structure:**
 ```
-doerz_automation/
+root/
 │
 ├── main.py
 ├── requirements.txt
