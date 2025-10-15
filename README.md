@@ -1,6 +1,6 @@
-# Doerz Tech
+# Automated Web Form Submission with Playwright & Python
 
-Automated Web Form Submission with Playwright & Python
+
 ---
 
 ## 📋 Overview
